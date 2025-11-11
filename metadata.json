@@ -1,0 +1,8 @@
+{
+  "name": "CABEX",
+  "description": "Una aplicación web móvil para guiar a los usuarios a través de un proceso de chequeo médico en una cabina de autoservicio, desde la selección del examen hasta la entrega de resultados.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
